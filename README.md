@@ -6,7 +6,6 @@ Proyek ini merupakan implementasi Business Intelligence untuk menganalisis pasar
 
 Dashboard dikembangkan menggunakan Microsoft Power BI dan memanfaatkan metode K-Means Clustering untuk melakukan segmentasi kendaraan.
 
-## Preview Dashboard
 
 ## Preview Dashboard
 
