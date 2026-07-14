@@ -72,7 +72,7 @@ Website/
 
 ## Dashboard Preview
 
-<img src="docs/Dashboard-OLX.jpeg" width="100%">
+<img src="docs/dashboard-preview.png" width="100%">
 
 ---
 
