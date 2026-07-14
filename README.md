@@ -1,24 +1,26 @@
-# Dashboard Analisis Pasar Mobil Bekas Jabodetabek
+# Used Car Market Analysis Dashboard (Greater Jakarta)
 
-Dashboard Business Intelligence untuk menganalisis pasar mobil bekas berdasarkan data iklan OLX di wilayah Jabodetabek.
+Business Intelligence Dashboard for analyzing the used car market based on OLX advertisement data in the Greater Jakarta area (Jakarta, Bogor, Depok, Tangerang, and Bekasi).
 
 ## Project Overview
 
-Project ini dikembangkan sebagai tugas akhir (Skripsi) Program Studi Sistem Informasi. Dashboard dirancang untuk membantu pengguna memahami kondisi pasar mobil bekas melalui visualisasi data interaktif menggunakan Microsoft Power BI.
-
-## Features
-
-- Web Scraping Data OLX
-- Data Cleaning & Preprocessing
-- K-Means Clustering
-- SQL Data Warehouse (Star Schema)
-- KPI Dashboard
-- Interactive Dashboard with Power BI
-- Website Integration using HTML & CSS
+This project was developed as my undergraduate thesis in the Information Systems program. It integrates web scraping, data preprocessing, machine learning, data warehousing, and business intelligence to analyze the used car market and present actionable insights through an interactive Power BI dashboard.
 
 ---
 
-## Workflow
+## Key Features
+
+- Web Scraping of OLX Used Car Listings
+- Data Cleaning & Preprocessing
+- K-Means Clustering for Market Segmentation
+- SQL Data Warehouse (Star Schema)
+- KPI Design & Business Metrics
+- Interactive Dashboard with Microsoft Power BI
+- Responsive Website Integration (HTML & CSS)
+
+---
+
+## Project Workflow
 
 ```
 Web Scraping
@@ -27,13 +29,16 @@ Web Scraping
 Data Cleaning
       │
       ▼
+Feature Engineering
+      │
+      ▼
 K-Means Clustering
       │
       ▼
 SQL Data Warehouse
       │
       ▼
-KPI Design
+KPI Development
       │
       ▼
 Power BI Dashboard
@@ -49,6 +54,7 @@ Website Deployment
 - Python
 - Pandas
 - NumPy
+- Scikit-learn
 - Microsoft SQL Server
 - Microsoft Power BI
 - HTML
@@ -64,12 +70,11 @@ Website Deployment
 Dashboard/
 Data/
 Python/
-Sql/
+SQL/
 Website/
 ```
 
 ---
-
 
 ## Dashboard Preview
 
@@ -95,4 +100,13 @@ https://jurnal.itbsemarang.ac.id/index.php/JPSI/article/view/4078
 
 Bachelor of Information Systems
 
-Business Intelligence | Data Analytics | Power BI | SQL | Python
+Aspiring Data Analyst | Business Intelligence Analyst
+
+**Skills**
+
+- Python
+- SQL
+- Power BI
+- Data Analytics
+- Machine Learning
+- Data Visualization
