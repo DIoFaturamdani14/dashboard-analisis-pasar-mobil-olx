@@ -72,7 +72,8 @@ Website/
 
 ## Dashboard Preview
 
-<img src="docs/dashboard-preview.png" width="100%">
+
+![Dashboard Preview](assets/dashboard-preview.png)
 
 ---
 
